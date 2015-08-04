@@ -1,6 +1,7 @@
 /**
  * Created by Jun.li on 2015/7/10.
  */
+"use strict";
 
 function init(list) {
     list._head = null;
